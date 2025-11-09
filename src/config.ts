@@ -8,7 +8,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         description: "博客主站",
         url: "https://blog.trageek.com",
         icon: "/icons/blog.trageek.jpg",
-        color: "#0171CD",
+
       },
       {
         title: "Blog2",
