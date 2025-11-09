@@ -14,7 +14,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "Blog2",
         description: "博客备用站点",
         url: "https://blog.itvoyager.us",
-        icon: "https://imgbed-idk.pages.dev/file/1762654383670_done-hub-idk.onrender.ico",
+        icon: "https://imgbed-idk.pages.dev/file/1762653985713_blog.trageek.jpg",
       },
       {
         title: "Monitor1",
